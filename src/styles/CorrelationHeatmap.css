@@ -1,0 +1,20 @@
+
+.correlation-heatmap {
+  padding: 20px;
+}
+
+.correlation-heatmap h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.correlation-heatmap select {
+  margin: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.correlation-heatmap label {
+  font-size: 16px;
+}
